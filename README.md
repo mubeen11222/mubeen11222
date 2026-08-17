@@ -180,9 +180,9 @@ I'm especially interested in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mubeen11222&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Mubeen's GitHub Stats">
+<img src="./profile/stats.svg" height="170" alt="Mubeen's GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubeen11222&layout=compact&hide_border=true" height="170" alt="Top Languages">
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages">
 
 </div>
 
