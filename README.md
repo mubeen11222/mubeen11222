@@ -192,7 +192,7 @@ I'm especially interested in:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mubeen11222/mubeen11222/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/mubeen11222/mubeen11222/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
