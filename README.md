@@ -220,9 +220,9 @@ I'm especially interested in:
 
 <div align="center">
 
-### 💡 Learn • Build • Improve • Repeat 🚀
+### Learn • Build • Improve • Repeat 
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 </div>
 
